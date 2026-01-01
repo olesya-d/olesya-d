@@ -5,11 +5,11 @@ I'm a **motivated aspiring Data Analyst** based in London, recently completing a
 ---
 
 ## 🚀 About Me
-- 🌱 Recently completed **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025) with hands-on experience in SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI.
-- 💻 Experienced in **data cleaning, analysis, visualisation**, and building interactive dashboards for business insights.
-- 🎯 Passionate about **data-driven problem solving** and applying analytics to real-world business challenges.
-- 💬 Strong communication skills, with experience translating complex requirements for technical and non-technical stakeholders.
-- 📫 Reach me: [Email](mailto:olesya77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/olesya-drozhzhina)
+- Recently completed **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025) with hands-on experience in SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI.
+- Experienced in **data cleaning, analysis, visualisation**, and building interactive dashboards for business insights.
+- Passionate about **data-driven problem solving** and applying analytics to real-world business challenges.
+- Strong communication skills, with experience translating complex requirements for technical and non-technical stakeholders.
+- Reach me: [Email](mailto:olesya77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/olesya-drozhzhina)
 
 ---
 
