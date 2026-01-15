@@ -10,7 +10,7 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
 - Strong communication skills, with experience explaining analytical results to both technical and non-technical audiences.
   
 
-- Reach me: [Email](mailto:olesya77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/olesya-drozhzhina)
+- Reach me: [Email](mailto:olesya77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/olesya-drozhzhina-63617439a/)
 
 ---
 
