@@ -6,9 +6,10 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
 
 ## 🚀 About Me
 - Recently completed **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025) with hands-on experience in SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI.
-- Experienced in **data cleaning, analysis, visualisation**, and building interactive dashboards for business insights.
-- Passionate about **data-driven problem solving** and applying analytics to real-world business challenges.
-- Strong communication skills, with experience translating complex requirements for technical and non-technical stakeholders.
+- Experienced in cleaning, analysing, and visualising data to support business decisions and build clear, interactive dashboards.
+- Comfortable using data to explore real business questions and turn findings into practical insights.
+- Strong communication skills, with experience explaining analytical results to both technical and non-technical audiences.
+
 - Reach me: [Email](mailto:olesya77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/olesya-drozhzhina)
 
 ---
@@ -40,7 +41,7 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
 
 ---
 
-## 📊 Portfolio & Projects
+## 📊 Portfolio
 
 ### 🛒 Olist Store Marketplace Analysis
 
@@ -54,7 +55,7 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   </p>
   <a href="https://github.com/olesya-d/Olist_Store_PowerBI/tree/main">View Project →</a>
 </td>
-<td width="50%">
+<td width="30%">
   <img src="images/eCommerce.png" width="100%">
 </td>
 </tr>
@@ -70,7 +71,7 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   </p>
   <a href="https://github.com/olesya-d/AdventureWorksSales_Python">View Project →</a>
 </td>
-<td width="50%">
+<td width="30%">
   <img src="images/bike2.png" width="100%">
 </td>
 </tr>
@@ -88,7 +89,7 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   </p>
   <a href="https://github.com/olesya-d/Avocado_sales_Excel">View Project →</a> 
 </td>
-<td width="50%">
+<td width="30%">
   <img src="images/avocado.png" width="100%">
 </td>
 </tr>
@@ -104,7 +105,7 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   </p>
   <a href="https://github.com/olesya-d/Population_analysis_python">View Project →</a>
 </td>
-<td width="50%">
+<td width="30%">
   <img src="images/population.png" width="100%">
 </td>
 </tr>
