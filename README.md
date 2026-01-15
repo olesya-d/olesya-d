@@ -42,12 +42,12 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
 ---
 
 ## 📊 Portfolio
-
-### 🛒 Olist Store Marketplace Analysis
-
 <table>
 <tr>
-<td width="50%">
+<td width="20%">
+  <img src="images/eCommerce.png" width="100%">
+</td>
+<td width="80%">
   <h3>🛒 Olist Store Marketplace Analysis</h3>
   <p>
     End-to-end analysis of Brazilian eCommerce data using Power BI.<br>
@@ -55,15 +55,14 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   </p>
   <a href="https://github.com/olesya-d/Olist_Store_PowerBI/tree/main">View Project →</a>
 </td>
-<td width="30%">
-  <img src="images/eCommerce.png" width="100%">
-</td>
 </tr>
 </table>
-
 <table>
 <tr>
-<td width="50%">
+<td width="20%">
+  <img src="images/bike2.png" width="100%">
+</td>
+<td width="80%">
   <h3>🏢 AdventureWorks Business Analysis</h3>
   <p>
     Full-cycle data analytics project using the Microsoft AdventureWorks database.<br>
@@ -71,17 +70,14 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   </p>
   <a href="https://github.com/olesya-d/AdventureWorksSales_Python">View Project →</a>
 </td>
-<td width="30%">
-  <img src="images/bike2.png" width="100%">
-</td>
 </tr>
 </table>
-
-
-
 <table>
 <tr>
-<td width="50%">
+<td width="20%">
+  <img src="images/avocado.png" width="100%">
+</td>
+<td width="80%">
   <h3>🥑 Avocado Sales Analysis</h3>
   <p>
     Excel-based data analysis project exploring avocado sales trends across U.S. regions.<br>
@@ -89,24 +85,20 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   </p>
   <a href="https://github.com/olesya-d/Avocado_sales_Excel">View Project →</a> 
 </td>
-<td width="30%">
-  <img src="images/avocado.png" width="100%">
-</td>
 </tr>
 </table>
-
 <table>
 <tr>
-<td width="50%">
+<td width="20%">
+  <img src="images/population.png" width="100%">
+</td>
+<td width="80%">
   <h3>🌍 Global Population Analysis</h3>
   <p>
     Python-based data analysis project using global population data (2000–2010).<br>
     Focus on trend exploration and analytical insights using pandas and data visualisation libraries.
   </p>
   <a href="https://github.com/olesya-d/Population_analysis_python">View Project →</a>
-</td>
-<td width="30%">
-  <img src="images/population.png" width="100%">
 </td>
 </tr>
 </table>
