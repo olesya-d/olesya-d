@@ -55,7 +55,57 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   <a href="https://github.com/olesya-d/Olist_Store_PowerBI/tree/main">View Project →</a>
 </td>
 <td width="50%">
-  <img src="images/Overview.png" width="100%">
+  <img src="images/eCommerce.png" width="100%">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+  <h3>🏢 AdventureWorks Business Analysis</h3>
+  <p>
+    Full-cycle data analytics project using the Microsoft AdventureWorks database.<br>
+    Focus on sales performance, regional trends, workforce metrics, and operational relationships using SQL and Python.
+  </p>
+  <a href="https://github.com/olesya-d/AdventureWorksSales_Python">View Project →</a>
+</td>
+<td width="50%">
+  <img src="images/bike2.png" width="100%">
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="50%">
+  <h3>🥑 Avocado Sales Analysis</h3>
+  <p>
+    Excel-based data analysis project exploring avocado sales trends across U.S. regions.<br>
+    Focus on demand patterns, pricing impact, and differences between conventional and organic products.
+  </p>
+  <a href="https://github.com/olesya-d/Avocado_sales_Excel">View Project →</a> 
+</td>
+<td width="50%">
+  <img src="images/avocado.png" width="100%">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+  <h3>🌍 Global Population Analysis</h3>
+  <p>
+    Python-based data analysis project using global population data (2000–2010).<br>
+    Focus on trend exploration and analytical insights using pandas and data visualisation libraries.
+  </p>
+  <a href="https://github.com/olesya-d/Population_analysis_python">View Project →</a>
+</td>
+<td width="50%">
+  <img src="images/population.png" width="100%">
 </td>
 </tr>
 </table>
