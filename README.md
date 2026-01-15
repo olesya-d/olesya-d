@@ -43,16 +43,6 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
 ## 📊 Portfolio & Projects
 
 ### 🛒 Olist Store Marketplace Analysis
-<p align="center">
-  <a href="https://github.com/olesya-d/olist-store-analysis">
-    <img src="images/olist_dashboard.png" width="800">
-  </a>
-</p>
-
-**Tools:** Power BI, SQL, Data Modeling  
-**Focus:** Sales trends, customer behavior, logistics performance, business recommendations
-
-
 
 <table>
 <tr>
@@ -62,10 +52,10 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
     End-to-end analysis of Brazilian eCommerce data using Power BI.<br>
     Focus on sales trends, customer retention, logistics, and regional performance.
   </p>
-  <a href="https://github.com/olesya-d/olist-store-analysis">View Project →</a>
+  <a href="https://github.com/olesya-d/Olist_Store_PowerBI/tree/main">View Project →</a>
 </td>
 <td width="50%">
-  <img src="images/olist_dashboard.png" width="100%">
+  <img src="images/Overview.png" width="100%">
 </td>
 </tr>
 </table>
