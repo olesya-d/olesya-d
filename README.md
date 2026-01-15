@@ -1,6 +1,13 @@
 # Hi there 👋, I'm Olesya Drozhzhina
 
-I’m a **Data Analyst with a strong background in applied mathematics** and prior professional experience as a **Business Analyst** in the banking and telecommunications sectors. Recently completed **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025) where I gained hands-on experience with **SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI**, applying these tools across multiple individual and group projects focused on real business problems. Confident in cleaning, analysing, and visualising data to support business decisions and turn real business questions into practical insights. Strong communication skills, with experience explaining analytical results to both technical and non-technical audiences.
+I’m a **Data Analyst with a background in applied mathematics** and prior professional experience as a **Business Analyst** in the banking and telecommunications sectors.
+
+I recently completed the **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025), gaining hands-on experience with **SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI** across multiple individual and group projects focused on real business problems.
+
+I’m confident in **cleaning, analysing, and visualising data** to support business decisions and turn real business questions into practical insights, and I’m comfortable explaining analytical results to both technical and non-technical audiences.
+
+I am currently seeking **Junior / Entry-Level Data Analyst** roles in the UK.
+
   
   📫 Reach me: [Email](mailto:olesya77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/olesya-drozhzhina-63617439a/)
 
