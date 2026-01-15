@@ -6,16 +6,16 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
 
 ## 🚀 About Me
 - Recently completed **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025) with hands-on experience in SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI.
-- Experienced in cleaning, analysing, and visualising data to support business decisions and build clear, interactive dashboards.
-- Comfortable using data to explore real business questions and turn findings into practical insights.
+- Experienced in cleaning, analysing, and visualising data to support business decisions and turn real business questions into practical insights
 - Strong communication skills, with experience explaining analytical results to both technical and non-technical audiences.
+  
 
 - Reach me: [Email](mailto:olesya77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/olesya-drozhzhina)
 
 ---
 
 ## 🛠️ Skills & Tools
-
+Tools and technologies used across portfolio projects and bootcamp work:
 ### Data Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,7 +51,7 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
   <h3>🛒 Olist Store Marketplace Analysis</h3>
   <p>
     End-to-end analysis of Brazilian eCommerce data using Power BI.<br>
-    Focus on sales trends, customer retention, logistics, and regional performance.
+    Focus on sales trends, customer retention, logistics, and regional performance with actionable recommendations for business decision-making.
   </p>
   <a href="https://github.com/olesya-d/Olist_Store_PowerBI/tree/main">View Project →</a>
 </td>
@@ -107,9 +107,9 @@ I'm a **Data Analyst with a Business Analysis background** based in London, rece
 ---
 
 ## 💼 Professional Background
-- **Business Analyst** (Banking & Telecom, Moscow) – 2012–2014  
+- **Business Analyst** (Banking & Telecom) – 2012–2014  
   - Collaborated with stakeholders to transform business needs into technical solutions.  
-- **QA Engineer** (Bank VTB24, Moscow) – 2010–2012  
+- **QA Engineer** (Bank VTB24) – 2010–2012  
   - Conducted testing and validated functionality for banking applications.  
 
 ---
