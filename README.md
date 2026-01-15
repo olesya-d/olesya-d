@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Olesya Drozhzhina
 
-I'm a **motivated aspiring Data Analyst** based in London, recently completing a full-time Data Analytics bootcamp. I bring a strong analytical background, experience as a Business Analyst in banking and telecommunications, and hands-on experience with SQL, Python, Excel, and Power BI. I'm now building my portfolio and looking to contribute to data-driven projects.  
+I'm a **Data Analyst with a Business Analysis background** based in London, recently completing a full-time Data Analytics bootcamp. I bring a strong analytical background, experience as a Business Analyst in banking and telecommunications, and hands-on experience with SQL, Python, Excel, and Power BI. I'm now building my portfolio and looking to contribute to data-driven projects.  
 
 ---
 
@@ -42,6 +42,33 @@ I'm a **motivated aspiring Data Analyst** based in London, recently completing a
 
 ## 📊 Portfolio & Projects
 
+### 🛒 Olist Store Marketplace Analysis
+<p align="center">
+  <a href="https://github.com/olesya-d/olist-store-analysis">
+    <img src="images/olist_dashboard.png" width="800">
+  </a>
+</p>
+
+**Tools:** Power BI, SQL, Data Modeling  
+**Focus:** Sales trends, customer behavior, logistics performance, business recommendations
+
+
+
+<table>
+<tr>
+<td width="50%">
+  <h3>🛒 Olist Store Marketplace Analysis</h3>
+  <p>
+    End-to-end analysis of Brazilian eCommerce data using Power BI.<br>
+    Focus on sales trends, customer retention, logistics, and regional performance.
+  </p>
+  <a href="https://github.com/olesya-d/olist-store-analysis">View Project →</a>
+</td>
+<td width="50%">
+  <img src="images/olist_dashboard.png" width="100%">
+</td>
+</tr>
+</table>
 
 
 ---
