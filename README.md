@@ -100,13 +100,19 @@ Tools and technologies used across portfolio projects and bootcamp work:
   <a href="https://github.com/olesya-d/Population_analysis_python">View Project →</a>
 </td>
 </tr>
+</table>
+<table>
+<tr>
+<td width="20%">
+  <img src="images/cafe.png" width="100%">
+</td>
 <td width="80%">
   <h3>☕ Café Sales Analytics</h3>
   <p>
     Python ETL and Power BI dashboard analysing café sales, profit, and customer behaviour.<br>
     Built as a pilot project during the Generation UK Data Analytics Bootcamp.
   </p>
-  <a href="https://github.com/olesya-d/Cafe_Pilot">View Project →</a>
+  <a href="https://github.com/olesya-d/Cafe_pilot">View Project →</a> 
 </td>
 </tr>
 </table>
