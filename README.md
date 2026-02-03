@@ -104,7 +104,7 @@ Tools and technologies used across portfolio projects and bootcamp work:
 <table>
 <tr>
 <td width="20%">
-  <img src="images/cafe.png" width="100%">
+  <img src="images/cafe .PNG" width="100%">
 </td>
 <td width="80%">
   <h3>☕ Café Sales Analytics</h3>
