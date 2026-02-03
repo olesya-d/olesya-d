@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Olesya Drozhzhina
 
-I’m a **Data Analyst with a background in applied mathematics** and prior professional experience as a **Business Analyst** in the banking and telecommunications sectors.
+I’m an **Entry-level Data Analyst with a background in applied mathematics** and prior professional experience as a **Business Analyst** in the banking and telecommunications sectors.
 
 I recently completed the **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025), gaining hands-on experience with **SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI** across multiple individual and group projects focused on real business problems.
 
@@ -100,8 +100,16 @@ Tools and technologies used across portfolio projects and bootcamp work:
   <a href="https://github.com/olesya-d/Population_analysis_python">View Project →</a>
 </td>
 </tr>
+<td width="80%">
+  <h3>☕ Café Sales Analytics</h3>
+  <p>
+    Python ETL and Power BI dashboard analysing café sales, profit, and customer behaviour.<br>
+    Built as a pilot project during the Generation UK Data Analytics Bootcamp.
+  </p>
+  <a href="https://github.com/olesya-d/Cafe_Pilot">View Project →</a>
+</td>
+</tr>
 </table>
-
 
 ---
 
