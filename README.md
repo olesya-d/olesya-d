@@ -4,7 +4,7 @@ I’m an **Entry-level Data Analyst with a background in applied mathematics** a
 
 I recently completed the **Generation UK & Ireland Data Analytics Bootcamp** (Sep–Dec 2025), gaining hands-on experience with **SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI** across multiple individual and group projects focused on real business problems.
 
-I’m confident in **cleaning, analysing, and visualising data** to support business decisions and turn real business questions into practical insights, and I’m comfortable explaining analytical results to both technical and non-technical audiences.
+I combine previous **Business Analyst experience** with up-to-date **technical skills**, developed through my Data Analytics bootcamp, enabling me to translate data into clear, actionable insights.
 
 I am currently seeking **Junior / Entry-Level Data Analyst** roles in the UK.
 
