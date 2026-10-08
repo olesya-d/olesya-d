@@ -44,6 +44,21 @@ Tools and technologies used across portfolio projects and bootcamp work:
 <table>
 <tr>
 <td width="20%">
+  <img src="images/house_prices.png" width="100%">
+</td>
+<td width="80%">
+<h3>🏠 London House Prices Analysis</h3>
+<p>
+  Analysis of how crime, deprivation and public transport accessibility are associated with house prices across London neighbourhoods.<br>
+  Combines multiple public datasets and uses Python for data cleaning, geographic matching, statistical analysis and multiple regression.
+</p>
+<a href="https://github.com/olesya-d/House_prices_analysis">View Project →</a>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td width="20%">
   <img src="images/eCommerce.png" width="100%">
 </td>
 <td width="80%">
